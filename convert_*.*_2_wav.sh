@@ -1,4 +1,10 @@
 #!/bin/bash
+'''
+#firstly install ffmpeg, as following:
+sudo add-apt-repository ppa:kirillshkrogalev/ffmpeg-next 
+sudo apt-get update 
+sudo apt-get install ffmpeg
+'''
 
 folder=$path          #your path
 
